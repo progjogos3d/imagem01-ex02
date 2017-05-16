@@ -21,7 +21,7 @@ Pode-se usar simplesmente:
 cor.multiply(escalar);
 ```
 
-##Estruturação do código
+## Estruturação do código
 
 O aluno deve atentar para o fato de que os fors para percorrer a imagem são sempre os 
 mesmos. O que muda é apenas a operação em seu interior:
