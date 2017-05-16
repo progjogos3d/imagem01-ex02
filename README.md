@@ -1,6 +1,7 @@
-# imagem01-ex01
+# Aula 1 - Exercícios Resolvidos (Avançado)
 
-Exercícios da aula 1 resolvidos utilizando recursos avançados do java 8.
+Exercícios da aula 1 resolvidos utilizando recursos avançados do java 8. Uma resolução mais simples pode ser encontrada
+no repositório [imagem01-ex01](https://github.com/progjogos3d/imagem01-ex01).
 
 ## Vector3
 A primeira melhoria é utilizar uma classe para representar cores na forma de um vetor matemático. Trata-se da classe 
